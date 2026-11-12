@@ -78,7 +78,6 @@ const eventConfig: EventConfig = {
       "Scan the code to share your question.\nQuestions appear here after review.",
     footerMessage:
       "2026 AI Symposium · Wellington-Dufferin-Guelph Public Health",
-    footerPrivacy: "",
   },
 };
 
